@@ -71,6 +71,8 @@ int main(int argc, char **argv)
 	glUniform1i(textureSamplerID, 0);
 
 	glutMainLoop();							 		// start rendering mainloop
+
+	// Dummy edit
 }
 
 void timerEvent(int value)
